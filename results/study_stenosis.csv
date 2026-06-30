@@ -1,0 +1,6 @@
+area_reduction_pct,diam_reduction_pct,dP_throat_mmHg,Q_distal_peak_mLs,Q_damping_pct
+0,0.0,0.000,85.90,0.00
+30,16.3,-0.079,86.04,-0.16
+50,29.3,1.397,85.48,0.50
+70,45.2,21.263,80.91,5.81
+80,55.3,52.864,72.60,15.48

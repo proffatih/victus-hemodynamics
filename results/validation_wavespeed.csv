@@ -1,0 +1,8 @@
+quantity,value,unit
+c0_theory,5.015699,m/s
+c_numerical,5.018069,m/s
+rel_error_percent,0.047265,%
+probe_x1,0.1200,m
+probe_x2,0.3600,m
+t_arrival_1,0.043925,s
+t_arrival_2,0.091752,s
